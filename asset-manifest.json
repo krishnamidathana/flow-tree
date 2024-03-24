@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/flow-tree/static/css/main.0145bc11.css",
+    "main.js": "/flow-tree/static/js/main.7a2f3baa.js",
+    "static/js/213.caadf0e9.chunk.js": "/flow-tree/static/js/213.caadf0e9.chunk.js",
+    "static/js/732.b17dd2ef.chunk.js": "/flow-tree/static/js/732.b17dd2ef.chunk.js",
+    "static/media/internal.jpg": "/flow-tree/static/media/internal.6c70d9799c04da21fe67.jpg",
+    "static/media/interview.jpg": "/flow-tree/static/media/interview.65a2eaf6df69508cfd9c.jpg",
+    "static/media/designing.jpg": "/flow-tree/static/media/designing.2605de1892eef6e3dc2b.jpg",
+    "static/media/marketing.jpg": "/flow-tree/static/media/marketing.77b73eb77b2465ec97ae.jpg",
+    "static/media/prd.jpg": "/flow-tree/static/media/prd.7a8137afa1788b2fab13.jpg",
+    "static/media/external.jpg": "/flow-tree/static/media/external.5700da4bc2d3e2e4cbaf.jpg",
+    "static/media/software.jpg": "/flow-tree/static/media/software.258ff7082bbbbb6c224e.jpg",
+    "static/media/hardware.jpg": "/flow-tree/static/media/hardware.92fed3697365e6a8a24f.jpg",
+    "static/media/manufacturing.jpg": "/flow-tree/static/media/manufacturing.ff2ad2d88e44655e4eeb.jpg",
+    "static/media/production.jpg": "/flow-tree/static/media/production.c92f1de722eb163fa4c2.jpg",
+    "static/media/b2c2.jpg": "/flow-tree/static/media/b2c2.bf16823b48ba0754a754.jpg",
+    "static/media/onlinesales.jpg": "/flow-tree/static/media/onlinesales.75dc4f28544ebaaad037.jpg",
+    "static/media/publicdata.jpg": "/flow-tree/static/media/publicdata.f3214ee1e02d09c0feef.jpg",
+    "static/media/dealership.jpg": "/flow-tree/static/media/dealership.688cb1ac6b9e26366f60.jpg",
+    "static/media/material.jpg": "/flow-tree/static/media/material.af0f631f66d648eb7281.jpg",
+    "static/media/b2c1.jpg": "/flow-tree/static/media/b2c1.28a250880718d0f5d4ab.jpg",
+    "static/media/health.jpg": "/flow-tree/static/media/health.f7100f94978d33e74e5b.jpg",
+    "static/media/research.jpg": "/flow-tree/static/media/research.e54251cc91e9e0f65a41.jpg",
+    "static/media/specs.jpg": "/flow-tree/static/media/specs.4ba2e0653cae2e6c1101.jpg",
+    "static/media/planning.jpg": "/flow-tree/static/media/planning.0a93fc3ceeb484549201.jpg",
+    "static/media/onlinecoustomer.jpg": "/flow-tree/static/media/onlinecoustomer.fd8163be7950662299d8.jpg",
+    "index.html": "/flow-tree/index.html",
+    "main.0145bc11.css.map": "/flow-tree/static/css/main.0145bc11.css.map",
+    "main.7a2f3baa.js.map": "/flow-tree/static/js/main.7a2f3baa.js.map",
+    "213.caadf0e9.chunk.js.map": "/flow-tree/static/js/213.caadf0e9.chunk.js.map",
+    "732.b17dd2ef.chunk.js.map": "/flow-tree/static/js/732.b17dd2ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0145bc11.css",
+    "static/js/main.7a2f3baa.js"
+  ]
+}
